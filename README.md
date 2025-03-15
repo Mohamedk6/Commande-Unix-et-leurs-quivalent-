@@ -1,5 +1,3 @@
- Commande-Unix-et-leurs-quivalent-
- 
 Unix            Commande utiliser           Powershell
 cp              Get-command cp               Copy-Item
 rm              Get-command rm               Remove-Item
